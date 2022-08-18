@@ -1,3 +1,4 @@
 Standalone applications : applications which run through main method are called as standalone applications
   we read data from console 
-  we write data to console
+  we write data to console. end of today's topic
+
